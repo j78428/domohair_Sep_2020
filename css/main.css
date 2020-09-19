@@ -335,7 +335,6 @@ footer .copyright span.line {
 @media (max-width: 480px) {
     .cover_block img.cover_img {
         width: 100%;
-        margin-top: 50px;
     }
 }
 
